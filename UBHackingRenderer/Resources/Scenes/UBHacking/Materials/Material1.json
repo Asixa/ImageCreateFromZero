@@ -1,0 +1,9 @@
+{
+  "type": "standard",
+  "data": [
+    "Textures/default.png",
+    "Textures/Normal2.png",
+    "Textures/white.bmp",
+    "Textures/bricks2_disp.jpg"
+  ]
+}

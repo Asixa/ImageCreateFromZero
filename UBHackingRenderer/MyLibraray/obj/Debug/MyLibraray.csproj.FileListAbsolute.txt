@@ -1,0 +1,12 @@
+F:\ALight-master\MyLibraray\bin\Debug\MyLibraray.dll
+F:\ALight-master\MyLibraray\bin\Debug\MyLibraray.pdb
+F:\ALight-master\MyLibraray\obj\Debug\MyLibraray.csproj.CoreCompileInputs.cache
+F:\ALight-master\MyLibraray\obj\Debug\MyLibraray.dll
+F:\ALight-master\MyLibraray\obj\Debug\MyLibraray.pdb
+F:\ALight-master\MyLibraray\obj\Debug\MyLibraray.csprojResolveAssemblyReference.cache
+F:\UBHackingRenderer\MyLibraray\bin\Debug\MyLibraray.dll
+F:\UBHackingRenderer\MyLibraray\bin\Debug\MyLibraray.pdb
+F:\UBHackingRenderer\MyLibraray\obj\Debug\MyLibraray.csprojResolveAssemblyReference.cache
+F:\UBHackingRenderer\MyLibraray\obj\Debug\MyLibraray.csproj.CoreCompileInputs.cache
+F:\UBHackingRenderer\MyLibraray\obj\Debug\MyLibraray.dll
+F:\UBHackingRenderer\MyLibraray\obj\Debug\MyLibraray.pdb

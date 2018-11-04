@@ -1,0 +1,5 @@
+F:\UBHackingRenderer\MyLibraray\obj\Release\MyLibrary.csproj.CoreCompileInputs.cache
+F:\UBHackingRenderer\MyLibraray\bin\Release\MyLibrary.dll
+F:\UBHackingRenderer\MyLibraray\bin\Release\MyLibrary.pdb
+F:\UBHackingRenderer\MyLibraray\obj\Release\MyLibrary.dll
+F:\UBHackingRenderer\MyLibraray\obj\Release\MyLibrary.pdb

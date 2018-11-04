@@ -1,0 +1,8 @@
+F:\UBHackingLanguage\UBHackingCompiler\obj\Debug\UBHackingCompiler.csprojResolveAssemblyReference.cache
+F:\UBHackingLanguage\UBHackingCompiler\obj\Debug\UBHackingCompiler.csproj.CoreCompileInputs.cache
+F:\UBHackingLanguage\UBHackingCompiler\bin\Debug\UBHackingCompiler.exe.config
+F:\UBHackingLanguage\UBHackingCompiler\bin\Debug\UBHackingCompiler.exe
+F:\UBHackingLanguage\UBHackingCompiler\bin\Debug\UBHackingCompiler.pdb
+F:\UBHackingLanguage\UBHackingCompiler\obj\Debug\UBHackingCompiler.exe
+F:\UBHackingLanguage\UBHackingCompiler\obj\Debug\UBHackingCompiler.pdb
+F:\UBHackingLanguage\UBHackingCompiler\bin\Debug\MyLibrary.ubh

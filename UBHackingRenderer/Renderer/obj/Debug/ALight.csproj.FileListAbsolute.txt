@@ -1,0 +1,15 @@
+F:\ALight-master\ALight\obj\Debug\ALight.csprojResolveAssemblyReference.cache
+F:\ALight-master\ALight\obj\Debug\ALight.g.resources
+F:\ALight-master\ALight\obj\Debug\ALight.Form1.resources
+F:\ALight-master\ALight\obj\Debug\ALight.PreviewWindow.resources
+F:\ALight-master\ALight\obj\Debug\ALight.Properties.Resources.resources
+F:\ALight-master\ALight\obj\Debug\ALight.csproj.GenerateResource.Cache
+F:\ALight-master\ALight\obj\Debug\ALight.csproj.CoreCompileInputs.cache
+F:\ALight-master\ALight\bin\Debug\ALight.exe.config
+F:\ALight-master\ALight\bin\Debug\ALight.exe
+F:\ALight-master\ALight\bin\Debug\ALight.pdb
+F:\ALight-master\ALight\bin\Debug\Newtonsoft.Json.dll
+F:\ALight-master\ALight\obj\Debug\ALight.exe
+F:\ALight-master\ALight\obj\Debug\ALight.pdb
+F:\ALight-master\ALight\bin\Debug\MyLibraray.dll
+F:\ALight-master\ALight\bin\Debug\MyLibraray.pdb

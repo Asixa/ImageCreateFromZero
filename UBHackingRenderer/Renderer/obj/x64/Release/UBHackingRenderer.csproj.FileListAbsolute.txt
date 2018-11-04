@@ -1,0 +1,15 @@
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.g.resources
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.Form1.resources
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.PreviewWindow.resources
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.Properties.Resources.resources
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.csproj.GenerateResource.Cache
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.csproj.CoreCompileInputs.cache
+F:\UBHackingRenderer\Renderer\bin\x64\Release\UBHackingRenderer.exe.config
+F:\UBHackingRenderer\Renderer\bin\x64\Release\UBHackingRenderer.exe
+F:\UBHackingRenderer\Renderer\bin\x64\Release\UBHackingRenderer.pdb
+F:\UBHackingRenderer\Renderer\bin\x64\Release\Newtonsoft.Json.dll
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.csprojResolveAssemblyReference.cache
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.exe
+F:\UBHackingRenderer\Renderer\obj\x64\Release\UBHackingRenderer.pdb
+F:\UBHackingRenderer\Renderer\bin\x64\Release\MyLibrary.dll
+F:\UBHackingRenderer\Renderer\bin\x64\Release\MyLibrary.pdb

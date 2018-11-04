@@ -1,0 +1,42 @@
+﻿namespace  MyLabrary=>
+	class <public> Mathf
+	{
+		var PI as float32(3.14159274)<public|static>;
+		func<public|static> Sqrt[float32|v as float32]
+			=CAST[float32](
+				System.Math::Sqrt^
+				[float64|float64]
+				(
+					CAST[float64](v)
+				)
+			);
+		func<public|static> Sin[float32|f as float32]= CAST[float32](System.Math::Sin^[float64|float64](CAST[float64](f)));
+		func<public|static> Cos[float32|f as float32]= CAST[float32](System.Math::Cos^[float64|float64](CAST[float64](f)));
+		func<public|static> Asin[float32|f as float32]= CAST[float32](System.Math::Asin^[float64|float64](CAST[float64](f)));
+		func<public|static> Floor[float32|f as float32]= CAST[float32](System.Math::Floor^[float64|float64](CAST[float64](f)));
+		func<public|static> Acos[float32|f as float32]= CAST[float32](System.Math::Acos^[float64|float64](CAST[float64](f)));
+		func<public|static> Atan[float32|f as float32]= CAST[float32](System.Math::Atan^[float64|float64](CAST[float64](f)));
+		func<public|static> Log[float32|f as float32]= CAST[float32](System.Math::Log^[float64|float64](CAST[float64](f)));
+		func<public|static> Abs[float32|f as float32]= CAST[float32](System.Math::Abs^[float64|float64](CAST[float64](f)));
+		func<public|static> Tan[float32|f as float32]= CAST[float32](System.Math::Tan^[float64|float64](CAST[float64](f)));
+		func<public|static> Range[float32|v as float32,min as float32,max as float32]=COND[float32](v <= min,min,COND[float32](v>= max,max,v));
+		func<public|static>Min[float32|a as float32,b as float32]=COND[float32](a < b ,a , b);
+		func<public|static>Max[float32|a as float32,b as float32]=COND[float32](a > b ,a , b);
+		func<public|static>Atan2[float32|y as float32,x as float32]= CAST[float32](System.Math::ATan2^[float64|float64,float64](CAST[float64](y),CAST[float64](x)));
+		func<public|static>Pow[float32|y as float32,x as float32]= CAST[float32](System.Math::Pow^[float64|float64,float64](CAST[float64](y),CAST[float64](x)));
+	}
+
+	
+	// These are not supported
+
+	/*class <public|static> Random
+	{
+		var seed as int64(1)<private|static>;
+
+		func<public|static>Get[]
+		{
+			let seed = HEX(0x5DEECE66DL) * seed + HEX(0xB16);
+			$seed,HEX(0xFFFFFFFFFFFFL);
+			return (#>seed>16) / CAST[float32](HEX(0x100000000L));
+		}
+	}*/
